@@ -4,3 +4,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 Lectures:
 
 * BT01: Intro, Notes & Section 4 Assets
+* BT02: Battle Tank Overview
